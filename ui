@@ -315,3 +315,4 @@ function library.CreateMain()
 		gui.Main.ScrollingFrame:FindFirstChild(name).MouseButton1Click:Connect(callback)
 		
 	end
+end
